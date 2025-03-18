@@ -1,4 +1,4 @@
-# Competitive Analysis Report Generator
+# AI Agentic- Competitive Analysis 
 
 An AI-powered tool that generates comprehensive competitor analysis reports using OpenAI's Agents SDK. The tool provides both Excel and PDF reports with detailed insights about your competitors.
 
